@@ -7,3 +7,5 @@ Programmēšana visiem
 # FAQ
 - Kā ir programmēt?  
 Labi.
+
+Pēterim patīk veikt izmaiņas
