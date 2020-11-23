@@ -1,9 +1,9 @@
 # DP2-1 demo
-Autors Māris
+Autors Māris, Pēteris
 
 # Izmantotā literatūra
 Programmēšana visiem
 
 # FAQ
-- Kā ir programmēt?
+- Kā ir programmēt?  
 Labi.
