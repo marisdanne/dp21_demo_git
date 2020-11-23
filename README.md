@@ -9,3 +9,4 @@ Programmēšana visiem
 Labi.
 
 Mārim arī patīk veikt izmaiņas.
+Pēterim patīk veikt izmaiņas
