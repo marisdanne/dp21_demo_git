@@ -1,1 +1,1 @@
-# dp21_demo_git
+# DP2-1 demo
